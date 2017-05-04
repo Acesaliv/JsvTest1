@@ -16,7 +16,7 @@ public class MostrarMensaje {
     }
     
     //metodos
-    public void Mostrar(){
-        System.out.println("Hello World!");
+    public void Mostrar(String mensaje){
+        System.out.println(mensaje);
     }
 }

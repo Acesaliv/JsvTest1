@@ -18,7 +18,7 @@ public class JsvTest1 {
         // TODO code application logic here
         MostrarMensaje mimensaje=new MostrarMensaje()  ;
         
-        mimensaje.Mostrar();
+        mimensaje.Mostrar("Hello World!");
     }
     
 }
